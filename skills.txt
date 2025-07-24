@@ -1,0 +1,6 @@
+JavaScript, TypeScript
+WebdriverIO, Playwright
+API-testing
+BDD
+Mocks
+CI/CD
